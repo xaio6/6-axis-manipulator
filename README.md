@@ -26,7 +26,7 @@
 
 ## 演示
 
-具体演示查看[bilbil](https://www.bilibili.com/video/BV1sV411n7ZL/)
+具体演示查看[bilbil]([https://www.bilibili.com/video/BV1sV411n7ZL/](https://www.bilibili.com/video/BV1oSDzYzEd7/?spm_id_from=333.999.0.0))
 
 <div align="center">
 <img src="docs/1.jpg"/><br>
