@@ -14,7 +14,7 @@
 > 🔆 该项目也在持续的更新阶段，如果您有任何关于新的模型方法、研究、技术或发现运行错误的建议，请随时编辑并提交 PR。⭐ 如果您发现这个Github Project有用，请给它点个星！🤩🤩
 
 ### 所有文件
-由于GitHub不支持上传大文件，需要前往百度网盘下载
+由于GitHub不支持上传大文件，需要前往[百度网盘](https://pan.baidu.com/s/1kDeBBtLJqEvFBx3X1LSLKA?pwd=ppph)下载
 
 <div align="center">
 <img src="docs/2.jpg"/><br>
