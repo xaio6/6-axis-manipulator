@@ -21,6 +21,7 @@
 </div>
 
 ### 注意事项
+- 该仓库不包含上位机的源码，想要全部源码的可以在[工房](https://gf.bilibili.com/item/detail/1110221124?noTitleBar=1&from=mall-up_itemDetail&msource=comments_486049784&track_id=na_486049784_BV1oSDzYzEd7_A)获取
 - 具体组装跟控制流程，请详细阅读[机械臂组装流程.docx](./机械臂组装流程.docx)
 
 
