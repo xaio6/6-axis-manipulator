@@ -7,7 +7,6 @@
 <img src="docs/Horizons.jpg"/><br>
 </div>
 
-### 该仓库主要存放的是整个机械臂的3D打印文件、机械臂的组装过程、驱动板的软固件以及python打包的exe文件，用于让大家可以快速上手，快速搭建自己的机械臂并且驱动。
 
 > [!IMPORTANT]
 >
@@ -31,6 +30,7 @@
 <div align="center">
 <img src="docs/1.jpg"/><br>
 </div>
+
 
 
 
