@@ -17,7 +17,7 @@
 由于GitHub不支持上传大文件，需要前往[百度网盘]( https://pan.baidu.com/s/1wiGUIEWGnfQ3V2lvOGn6Lw?pwd=cnv2)下载
 
 <div align="center">
-<img src="docs/2.jpg"/><br>
+<img src="docs/d118c0d5bba0f57c926151c08583b44f.png"/><br>
 </div>
 
 ### 注意事项
@@ -31,4 +31,5 @@
 <div align="center">
 <img src="docs/1.jpg"/><br>
 </div>
+
 
