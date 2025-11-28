@@ -12,6 +12,9 @@
 >
 > 🔆 该项目也在持续的更新阶段，如果您有任何关于新的模型方法、研究、技术或发现运行错误的建议，请随时编辑并提交 PR。⭐ 如果您发现这个Github Project有用，请给它点个星！🤩🤩
 
+# 控制源码
+
+> 全部源码跟算法在这个[仓库](https://github.com/xaio6/Embodied_AI_Arm_open)
 
 ### 注意事项
 - 具体组装跟控制流程，请详细阅读[机械臂组装流程.docx](./机械臂组装流程.pdf)
@@ -28,6 +31,7 @@
 <div align="center">
 <img src="docs/3.jpg"/><br>
 </div>
+
 
 
 
