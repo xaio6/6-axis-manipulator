@@ -1,6 +1,6 @@
  # 听懂人话的6轴Agent机械臂（升级款）
 
-<h1 align="center">3D打印最终版本</h1>
+<h1 align="center">3D打印版本</h1>
 
 ## 简介
 <div align="center">
@@ -31,6 +31,7 @@
 <div align="center">
 <img src="docs/3.jpg"/><br>
 </div>
+
 
 
 
