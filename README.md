@@ -17,7 +17,7 @@
 > 全部源码跟算法在这个[仓库](https://github.com/xaio6/Embodied_AI_Arm_open)
 
 ### 注意事项
-- 具体组装跟控制流程，请详细阅读[机械臂组装流程-新.pdf(./机械臂组装流程-新.pdf)
+- 具体组装跟控制流程，请详细阅读[机械臂组装流程.pdf](./机械臂组装流程-新.pdf)
 
 
 ## 演示
@@ -31,6 +31,7 @@
 <div align="center">
 <img src="docs/3.jpg"/><br>
 </div>
+
 
 
 
