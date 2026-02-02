@@ -1,4 +1,4 @@
- # 听懂人话的6轴Agent机械臂（升级款）
+ # 听懂人话的6轴Agent机械臂（H1）
 
 <h1 align="center">3D打印版本</h1>
 
@@ -14,7 +14,7 @@
 
 # 控制源码
 
-> 全部源码跟算法在这个[仓库](https://github.com/xaio6/Embodied_AI_Arm_open)
+> 全部源码跟算法在这个[仓库](https://github.com/xaio6/Embodied_Arm)
 
 ### 注意事项
 - 具体组装跟控制流程，请详细阅读[机械臂组装流程.pdf](./机械臂组装流程-新.pdf)
@@ -31,6 +31,7 @@
 <div align="center">
 <img src="docs/3.jpg"/><br>
 </div>
+
 
 
 
